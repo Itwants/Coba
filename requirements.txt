@@ -1,5 +1,4 @@
 cmake
-build-essential
 libuv1-dev
 libssl-dev
 libhwloc-dev
