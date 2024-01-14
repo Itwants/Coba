@@ -1,4 +1,3 @@
-git
 cmake
 build-essential
 libuv1-dev
